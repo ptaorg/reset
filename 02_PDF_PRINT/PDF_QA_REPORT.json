@@ -1,0 +1,45 @@
+{
+  "version": "v0.2.2-rich-print",
+  "generated_files": [
+    "pta-starter-kit-v0.2.2-rich-manual-print.pdf",
+    "pta-starter-kit-v0.2.2-rich-templates-print.pdf",
+    "pta-starter-kit-v0.2.2-rich-full-print.pdf"
+  ],
+  "page_counts": {
+    "pta-starter-kit-v0.2.2-rich-manual-print.pdf": 47,
+    "pta-starter-kit-v0.2.2-rich-templates-print.pdf": 52,
+    "pta-starter-kit-v0.2.2-rich-full-print.pdf": 130
+  },
+  "render_verification": {
+    "engine": "pdfium via render_pdf.py",
+    "dpi": 120,
+    "sample_pages": {
+      "manual": [
+        1,
+        2,
+        10,
+        47
+      ],
+      "templates": [
+        1,
+        2,
+        25,
+        52
+      ],
+      "full": [
+        1,
+        2,
+        80,
+        130
+      ]
+    },
+    "result": "sample pages rendered without broken glyphs, clipped headings, or black boxes in visual inspection"
+  },
+  "source": "pta-starter-kit-v0.2.2-rich-site",
+  "notes": [
+    "A4 print CSS applied.",
+    "Generated with WeasyPrint from verified HTML site.",
+    "No OCR used.",
+    "Page breaks adjusted to avoid excessive blank pages in forms."
+  ]
+}

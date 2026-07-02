@@ -1,0 +1,300 @@
+{
+  "version": "v1.0",
+  "release_date": "2026-07-03",
+  "issuer": "PTA適正化推進委員会",
+  "url": "https://ptaorg.com",
+  "contact": "info@ptaorg.com",
+  "file_count": 58,
+  "files": [
+    {
+      "path": "00_READ_FIRST/FILE_INDEX.md",
+      "size": 2497,
+      "sha256": "689e1b919206fe6203e77c1da6ff0c88233e2f5d9059aeabd2234e5003fe5487"
+    },
+    {
+      "path": "00_READ_FIRST/FINAL_REVIEW_CHECKLIST.md",
+      "size": 1846,
+      "sha256": "1042f5217621126719d9a2ce77b6febad3bcc7fdaf5bc7db96f1a901dbf38cc0"
+    },
+    {
+      "path": "00_READ_FIRST/QUICK_START.md",
+      "size": 2004,
+      "sha256": "35dda372e2023ee23fa2094234f2cedc00f5161d2e58d5bad0d264e2c4761849"
+    },
+    {
+      "path": "00_READ_FIRST/RELEASE_DECISION.md",
+      "size": 667,
+      "sha256": "85b2c206879b2fe5850045c68f1d1344779b0e7319997aed53447cadc772e9c8"
+    },
+    {
+      "path": "00_READ_FIRST/RELEASE_NOTES.md",
+      "size": 1413,
+      "sha256": "6062d3a68b2e471a2f140d14eaa5bf1368a55a00f1a24c792ae814814b05adf0"
+    },
+    {
+      "path": "00_READ_FIRST/RELEASE_STATUS.md",
+      "size": 1329,
+      "sha256": "e5e22d9788c796861fb6143937c7d28dc872afe6004d84d9e0140c7e012f64a4"
+    },
+    {
+      "path": "00_READ_FIRST/VERSION_POLICY.md",
+      "size": 985,
+      "sha256": "dc0076b1958e6a38a8fd84f08456fdcc75f78c7723006be5eb39e5015a483b5d"
+    },
+    {
+      "path": "01_PUBLIC_RELEASE/GITHUB_UPLOAD_GUIDE.md",
+      "size": 971,
+      "sha256": "75c554c06d8943f29f3e5e799d03c883d5f55b09bed16a42051b46c387f800df"
+    },
+    {
+      "path": "01_PUBLIC_RELEASE/PUBLICATION_GUIDE.md",
+      "size": 1901,
+      "sha256": "52ec06427f6f99f2ce58bd166b2bf49485bc3465aeb9201dab187ac8c2e4094d"
+    },
+    {
+      "path": "01_PUBLIC_RELEASE/ptaorg_page_copy.md",
+      "size": 1308,
+      "sha256": "c10149cf9d960b1eafc72140cd93ee9d8a4e1178f2aa47fdc9e750b5d84d0a5b"
+    },
+    {
+      "path": "02_PDF_PRINT/PDF_QA_REPORT.json",
+      "size": 1105,
+      "sha256": "d354c8ed11f8979367adaa88ff2811212d8689e1989db708ebbcfd44342e5eb0"
+    },
+    {
+      "path": "02_PDF_PRINT/pta-starter-kit-v0.2.2-rich-full-print.pdf",
+      "size": 4439899,
+      "sha256": "5438399f1a811684a67489ee62c717482e428c525bc926fc69a4cefb4ff49fd8"
+    },
+    {
+      "path": "02_PDF_PRINT/pta-starter-kit-v0.2.2-rich-manual-print.pdf",
+      "size": 822528,
+      "sha256": "4c94edef6c161f88390b65111e5091932b7af3b96e01dfce66c45e6d71724df7"
+    },
+    {
+      "path": "02_PDF_PRINT/pta-starter-kit-v0.2.2-rich-print.zip",
+      "size": 5612817,
+      "sha256": "23eb2cc6b63faf9060f196cba9c7a5e776538e779172c54c41c978c26103a688"
+    },
+    {
+      "path": "02_PDF_PRINT/pta-starter-kit-v0.2.2-rich-templates-print.pdf",
+      "size": 835244,
+      "sha256": "2b3e5bdbe3a3b5ae0559b2752201914e637c888eb565216722c85767c6cd3d4b"
+    },
+    {
+      "path": "03_HTML_SITE/QA_REPORT.md",
+      "size": 10820,
+      "sha256": "2b8789945c8f0dd5fd198e30775dfa256489f806e2d6bea415f9a862a397989a"
+    },
+    {
+      "path": "03_HTML_SITE/README.md",
+      "size": 728,
+      "sha256": "8230e906c1fa8643e55fad8091950675148e356d4d3445d346bbbe8942354b1c"
+    },
+    {
+      "path": "03_HTML_SITE/audit.html",
+      "size": 4985,
+      "sha256": "86f7221d2b9637d16ea862a40b29f48602327ce4d8c912ca4e4145bbde6b1740"
+    },
+    {
+      "path": "03_HTML_SITE/checklist.html",
+      "size": 5689,
+      "sha256": "3b7d24249fa66ec059a1efbedbc1868473659c609bc756638650446162a92fef"
+    },
+    {
+      "path": "03_HTML_SITE/index.html",
+      "size": 5043,
+      "sha256": "7a219c98e95cb2ef2d733e873be14a6cc5f18710148120bd9a09206212f01090"
+    },
+    {
+      "path": "03_HTML_SITE/manual.html",
+      "size": 80714,
+      "sha256": "c01d35dbe8caf130bd5c56f4470d7abacbb0ca1130013243e9d2eebb3e97e7a6"
+    },
+    {
+      "path": "03_HTML_SITE/pta-starter-kit-v0.2.2-rich-site.zip",
+      "size": 141242,
+      "sha256": "476caccd6c1a5997bbe10edb5eb59ef97006c9d8234d04ae7e8bd2c38487cffd"
+    },
+    {
+      "path": "03_HTML_SITE/rebuttals.html",
+      "size": 6273,
+      "sha256": "90f2f7698ee5ec4258851d5c2122dd9960eeefd4900451903aa118436d363d0f"
+    },
+    {
+      "path": "03_HTML_SITE/roadmap.html",
+      "size": 5470,
+      "sha256": "81aefa2e7fac1ca5566c4d19383eb3978a379962371b00c91440e7522184be5c"
+    },
+    {
+      "path": "03_HTML_SITE/rules.html",
+      "size": 8352,
+      "sha256": "5b1578e33c930597f800f3843ef44a681bb72d9e58ef4306f58ba2dbdc48e72e"
+    },
+    {
+      "path": "03_HTML_SITE/school-board.html",
+      "size": 5369,
+      "sha256": "ef0476062ce7eb5b85133848987070e965abec4bd3b034ec22167ae3fdd3b872"
+    },
+    {
+      "path": "03_HTML_SITE/sources.html",
+      "size": 7442,
+      "sha256": "abcbd26e9c90ef8da733df35c88626c94effb6fa9ead2aafdbf332f7408ea3d8"
+    },
+    {
+      "path": "03_HTML_SITE/templates.html",
+      "size": 57725,
+      "sha256": "e4d2b9ba25a7e1a87836ebc772634827664fcfb7527406780d24711c80c0cace"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/01_マニュアル本文_充実版.md",
+      "size": 65696,
+      "sha256": "f19f855b5424ced80d92b6bf19bc06c877f25049a168aa3042e17d9ed666c4fd"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/02_標準書式14種.md",
+      "size": 34137,
+      "sha256": "a5ec5d133e5aaa353fca14a473c6ab587be6f38f9b00fae05c2d1c76d4cb0f07"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/05_PTA会則モデル.md",
+      "size": 5114,
+      "sha256": "e1b6d676a43f7718e3f8f438b4cb709324628f93a8a20d988295e9dcdededafe"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/06_移行ロードマップ.md",
+      "size": 2507,
+      "sha256": "4ca86826e29b2702fed94db1eb210379a72f2bf21365311f8dfa3fc3f377cee7"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/07_学校教育委員会向け説明書.md",
+      "size": 2962,
+      "sha256": "0c58d878c122a3436b403ec47b1992888f4acb9f155710b7d188e4ffd3c03c8a"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/08_反論対応集.md",
+      "size": 2844,
+      "sha256": "a4ffa3a2164c07cf3455e4073c329d011cb2297dac2071c8bffad283c0c512fd"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/09_情報公開監査確認項目.md",
+      "size": 2329,
+      "sha256": "d6fc6a36f33eb4c91dc1fab36656630781f2c3c6d5bfb78a4b7b25fedda13b75"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/10_詳細チェックリスト.md",
+      "size": 2175,
+      "sha256": "f76744b2793e3531d0fa42816b21c09631c790cb9df456497b51ad49c4476dc6"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/11_一次資料リンク集.md",
+      "size": 4686,
+      "sha256": "15dc5045cb9d41298e9f928e61e37e6d55aba00afbb00e92db15f8cb8c251001"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/CHANGELOG.md",
+      "size": 703,
+      "sha256": "5d36e5d4286a938fc9597ac155e57768c9d7cf465b05d9f6f24022b485558acd"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/QA_REPORT.md",
+      "size": 1883,
+      "sha256": "8c2df56732a8ba112e77d61b44c49d25868d22a47d642f670f91d997ee5e93c8"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/README.md",
+      "size": 2231,
+      "sha256": "fccee93e0f2ad4378e758e91ae318061b72a363851af6a3217fb8c216184534b"
+    },
+    {
+      "path": "04_MARKDOWN_SOURCE/pta-starter-kit-v0.2.2-rich.zip",
+      "size": 64348,
+      "sha256": "d89866f5d56b329f3c2ac44afccf3d05d3d1ec65644c980fa32aaa4cf9e3ba79"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/INSTALL_GUIDE.md",
+      "size": 2484,
+      "sha256": "814961f3bd422416b35bee91ea4ad5db4d12c1ea287b6ef73627fb5a1fa8b226"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/OPERATIONS_MANUAL.md",
+      "size": 1692,
+      "sha256": "a2f242247edd0fcb75ddce6c9100845e9ca50fc36eb43d6977b117644154668b"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/README.md",
+      "size": 2022,
+      "sha256": "ba1bf83239329ac029dc02351d421fa01496dce3561aa962ced57554cec793ba"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/SECURITY_CHECKLIST.md",
+      "size": 1313,
+      "sha256": "24e3aaefdbbbe8a67f8d2f126f0cb33793a96b5e7d423a3d92da00ffcc3fa63e"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/TEST_PLAN.md",
+      "size": 1525,
+      "sha256": "ccb491db021d13786681479c2ba34da0ba29843440d25256d3e5fc0fb2a06a86"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/docs/禁止機能一覧.md",
+      "size": 1023,
+      "sha256": "d2ce57d1077f024aafb0739c63805078a286a5becac374cae2c1bf76d51b8aac"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/pta-starter-kit-v0.3.1-implementation.zip",
+      "size": 107759,
+      "sha256": "90db95a68f1775501c7f021ce2f2653982c7ddb1cc633594b6776a16705e7428"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/qa/QA_REPORT.md",
+      "size": 608,
+      "sha256": "80d26c7e607652b6e6aeaeefa85ceb05ba05ea96a095374f3657ed61c72cdcd7"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/scripts/Code.gs",
+      "size": 25306,
+      "sha256": "b20256d9c851548781fa502fc1282cce20cbdcacaad1e6a61bb946acdc1cd4d1"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/scripts/appsscript.json",
+      "size": 360,
+      "sha256": "688bb9588d119dd6e8b42fce001f92a415e07362effadb4fe70b93a523851c66"
+    },
+    {
+      "path": "05_GOOGLE_IMPLEMENTATION/xlsx/pta-v0.3-sheet-template.xlsx",
+      "size": 73183,
+      "sha256": "e3d2293702b56b5f1e6947478918b227543b45c303468e14f2303c0107110476"
+    },
+    {
+      "path": "06_QA_CHECKS/FINAL_CANDIDATE_QA.md",
+      "size": 748,
+      "sha256": "69db8f3ced14b06c7c443e5992bbe1a31f6557eec7533615036c6cf88cd2847c"
+    },
+    {
+      "path": "06_QA_CHECKS/FINAL_RELEASE_QA.md",
+      "size": 770,
+      "sha256": "188e96a9b13c63a0c49e3e4b8cd2c6277d7cd50e8af4285fbb7eb0075d323736"
+    },
+    {
+      "path": "06_QA_CHECKS/RC1_QA_SUMMARY.md",
+      "size": 511,
+      "sha256": "1480f60ca21d871d194f8332ef073b2629d7ef7cfdb2a7199059d04686eb8c3d"
+    },
+    {
+      "path": "07_ARCHIVE_PREVIOUS/README.md",
+      "size": 186,
+      "sha256": "5e496ac93eda85a289c5ba9cdec0479558b6acff671e2d6eb1cf2ae718fe9b90"
+    },
+    {
+      "path": "README.md",
+      "size": 2082,
+      "sha256": "e8e8246188c9a2a7cae19437474f56d3b56f65d09d6b693f886f47f7cf8e5068"
+    },
+    {
+      "path": "VERSION.txt",
+      "size": 160,
+      "sha256": "57193fae861696bb961b5c90fba62c395b139d7ca8077db1de149ea28c1fe755"
+    }
+  ]
+}

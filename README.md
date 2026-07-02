@@ -1,20 +1,45 @@
-# PTA適正運営スターターキット v0.2 HTML版
+# PTA適正運営スターターキット v1.0
 
-このZIPは、Markdown配布版を静的HTMLに変換したサイト掲載用プレビューです。
+**発行日**：2026-07-03  
+**発行**：PTA適正化推進委員会  
+**公開URL**：https://ptaorg.com  
+**問い合わせ先**：info@ptaorg.com
 
-## 使い方
+本パッケージは、PTAを学校依存型の慣行から切り離し、任意加入、個人情報保護、会計分離、学校との公私分離に基づく適正運営へ移行するための正式公開版です。
 
-- `index.html` をブラウザで開いて確認してください。
-- GitHub Pages等に置く場合は、このZIPの中身を公開ディレクトリへ配置してください。
-- Markdown原本は `source/` に入っています。
+## まず読むファイル
 
-## 主なページ
+1. `00_READ_FIRST/QUICK_START.md`
+2. `00_READ_FIRST/FILE_INDEX.md`
+3. `00_READ_FIRST/RELEASE_STATUS.md`
+4. `01_PUBLIC_RELEASE/PUBLICATION_GUIDE.md`
 
-- `index.html`：トップ
-- `manual.html`：マニュアル本文
-- `templates.html`：標準書式14種
-- `checklist.html`：最終チェック表
-- `laws.html`：法令根拠一覧
-- `template-pages/`：個別テンプレートHTML
+## 主な構成
 
-発行：PTA適正化推進委員会
+- `02_PDF_PRINT/`：学校・教育委員会に渡しやすいPDF版
+- `03_HTML_SITE/`：GitHub PagesやWebサイト掲載用HTML版
+- `04_MARKDOWN_SOURCE/`：編集用Markdown原本
+- `05_GOOGLE_IMPLEMENTATION/`：Googleフォーム・スプレッドシート・Apps Script実装パッケージ
+- `01_PUBLIC_RELEASE/`：公開ページ用コピー、GitHubアップロード手順、公開手順
+- `06_QA_CHECKS/`：検査結果
+
+## 本版で意図的に含めないもの
+
+- 非加入届フォーム
+- 加入・非加入二択フォーム
+- 未提出者督促機能
+- 学校名簿インポート
+- 学校名簿照合
+- 非会員児童一覧
+- 役員免除申請
+- 家庭事情申告
+
+## 注意
+
+標準書式中の `＿＿＿＿` は、各学校・各PTAが自会の名称、年度、金額、担当者、日付等を記入するための空欄です。未確定の不具合ではありません。
+
+Googleフォーム・スプレッドシート・Apps Scriptは、利用者のGoogleアカウント環境で設置・権限確認・テスト実行してから本運用してください。本パッケージでは、非加入届、二択フォーム、学校名簿照合、非会員児童一覧を作らない設計にしています。
+
+## 位置付け
+
+`v1.0` は正式公開版です。今後、法令資料、教育委員会回答、実装上の不具合、利用者からのフィードバックに応じて、`v1.0.1`、`v1.1` のように更新します。
