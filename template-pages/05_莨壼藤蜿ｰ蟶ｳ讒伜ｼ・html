@@ -1,0 +1,65 @@
+<!doctype html><html lang="ja"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1"><title>05_������������������ - PTA適正運営スターターキット v0.2</title><link rel="stylesheet" href="assets/styles.css"></head><body>
+<header class="site-header"><div class="inner"><p class="site-title">PTA適正運営スターターキット v0.2</p><p class="site-subtitle">任意加入・個人情報保護・会計分離・学校との公私分離に基づく実務パッケージ</p></div></header>
+<nav class="top-nav"><div class="inner"><a href="index.html">トップ</a><a href="manual.html">マニュアル本文</a><a href="templates.html">標準書式</a><a href="checklist.html">チェック表</a><a href="laws.html">法令根拠</a><a href="changelog.html">更新履歴</a><a href="source/README.md">Markdown</a></div></nav>
+
+<main>
+<h1 id="書式5-pta会員台帳様式">書式5　PTA会員台帳様式</h1>
+<p>年度：＿＿＿＿年度<br />
+PTA名称：＿＿＿＿＿＿＿＿＿＿＿＿</p>
+<table style="width:100%;">
+<colgroup>
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+<col style="width: 6%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>受付番号</th>
+<th>入会日</th>
+<th>会員氏名</th>
+<th>ふりがな</th>
+<th>連絡先メール</th>
+<th>電話番号</th>
+<th>児童生徒との関係</th>
+<th>児童生徒氏名</th>
+<th>学年</th>
+<th>組</th>
+<th>会費年度</th>
+<th>会費納入状況</th>
+<th>同意取得日時</th>
+<th>退会日</th>
+<th>備考</th>
+</tr>
+</thead>
+<tbody>
+</tbody>
+</table>
+<h2 id="運用ルール">運用ルール</h2>
+<ol type="1">
+<li>本台帳には、入会申込みをした会員のみを登録する。</li>
+<li>学校名簿から転記しない。</li>
+<li>学校名簿と照合しない。</li>
+<li>非会員家庭、非会員児童、未提出者、未加入者を記録しない。</li>
+<li>非加入理由、家庭事情、役員免除理由を記録しない。</li>
+<li>閲覧権限を必要最小限に限定する。</li>
+<li>退会後はステータスを整理し、保存期間経過後に削除する。</li>
+<li>学校に台帳を共有しない。</li>
+<li>PTA役員退任時にはアクセス権を削除する。</li>
+<li>会員台帳は会員管理以外に利用しない。</li>
+</ol>
+</main>
+<footer class="footer">発行：PTA適正化推進委員会　｜　v0.2 HTML preview</footer>
+
+</body></html>
